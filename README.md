@@ -1,1 +1,1 @@
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Jose](https://github.com/Josewowgame2888/Josewowgame2888/blob/master/gifntext-gif.gif)
