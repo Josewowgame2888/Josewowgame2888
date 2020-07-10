@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/Josewowgame2888/Josewowgame2888/blob/master/gifntext-gif.gif" />
+  <img src="https://github.com/Josewowgame2888/Josewowgame2888/blob/master/gifntext-gif.gif" width="100%" heigth="100%"/>
 </p>
