@@ -1,16 +1,16 @@
 ```php
 <?php
 
-namespace AshBaker;
+namespace Josewowgame;
 
-class About extends Me
+class About extends Josewowgame
 {
     public function getCurrentWorkplace()
     {
         return [
             'workplace' => [
-                'company' => 'MEA Mobile',
-                'position' => 'Full Stack Developer'         
+                'company' => 'AvaloxBE',
+                'position' => 'Lead Developer'         
             ]
         ];
     }
@@ -23,15 +23,15 @@ class About extends Me
             Laravel::class,
             Vuejs::class,
             Angular::class,
-            ReactNative::class,
-            TailwindCss::class,
-            Aws::class,
+            Java::class,
+            CSharp::class,
+            NodeJS::class,
         ];
     }
 
     public function getFutureGoal()
     {
-        return 'To contribute to open source.';
+        return 'Get my own software development company';
     }
 }
 ```
